@@ -5,7 +5,7 @@
 |Eric       |  1|   4|   1|    6|$50 deposit
 |Dave       |   | 7.8|    |  7.8|$50 deposit
 |Nick       |   |   3|    |    3|Nick owns Jon $50
-|Immo       |   |   2| 3.5|  5.5|
+|Immo       |   |   2| 4.5|  6.5|
 |Alex G     |   |   2|    |    2|
 |Josh       |   |   2|   1|    3|
 |Nate       |   |   1|    |    1|
