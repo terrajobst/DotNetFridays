@@ -9,7 +9,7 @@
 |Alex G     |   |   2|    |    2|
 |Josh       |   |   2|   1|    3|
 |Nate       |   |   1|    |    1|
-|Alfredo    |   |   1|    |    1|
+|Alfredo    |   |   2|    |    2|
 |Peter P    |   |    |    |    0|
 |MattGal    |   | 1.2|    |  1.2|
 |Richard    |   |   5|    |    5|
@@ -19,7 +19,7 @@
 |Dustin     |   |   1|    |    1|
 |Jared      |   |   1|    |    1|
 |Chris      |   |   1|    |    1|
-|Jon        |   |   1|    |    1|
+|Jon        |   |   2|    |    2|
 |Krzysztof W|   |    |   2|    2|
 |Krzysztof C|   |   1|    |    1|
 |JeremyK    |   | 0.4|    |  0.4|
